@@ -7,7 +7,8 @@ package com.vantagem.gitproj;
 
 /**
  *
- * @author dev
+ * @author Salomé Ascenso
+ * @serial 20171026 09:48
  */
 public class ValidarLogin {
     
