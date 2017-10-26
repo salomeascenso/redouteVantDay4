@@ -11,8 +11,18 @@ package com.vantagem.gitproj;
  * @serial 20171026 09:54
  */
 public class ValidarLogin {
+
+    public int getActive() {
+        return active;
+    }
+
+    public void setActive(int active) {
+        this.active = active;
+    }
     
     String username;
+    int active;
+    
 
     public String getUsername() {
         return username;
