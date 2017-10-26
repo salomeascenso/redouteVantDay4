@@ -8,7 +8,7 @@ package com.vantagem.gitproj;
 /**
  *
  * @author Salomé Ascenso
- * @serial 20171026 09:48
+ * @serial 20171026 09:54
  */
 public class ValidarLogin {
     
@@ -22,5 +22,8 @@ public class ValidarLogin {
         this.username = username;
     }
     
+    public static void main(String[] args) {
+        
+    }
     
 }
